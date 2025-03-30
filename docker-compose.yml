@@ -1,0 +1,20 @@
+version: '3.7'
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      - SA_PASSWORD=YourStrong@Passw0rd
+      - ACCEPT_EULA=Y
+    ports:
+      - "1433:1433"
+
+  dupixentapi:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - "8081:8080"
+    depends_on:
+      - sqlserver
+    environment:
+      ConnectionStrings__Default: "Server=sqlserver;Database=CopayDB;User Id=sa;Password=YourStrong@Passw0rd;"

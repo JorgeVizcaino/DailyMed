@@ -1,0 +1,729 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361ABD06-CFFA-4F93-9CA4-18831DFF7BD4}|DailyMed.Infratructure.Test\\DailyMed.Infratructure.Test.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infratructure.test\\icd10searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361ABD06-CFFA-4F93-9CA4-18831DFF7BD4}|DailyMed.Infratructure.Test\\DailyMed.Infratructure.Test.csproj|solutionrelative:dailymed.infratructure.test\\icd10searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\data\\dailymedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\data\\dailymedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361ABD06-CFFA-4F93-9CA4-18831DFF7BD4}|DailyMed.Infratructure.Test\\DailyMed.Infratructure.Test.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infratructure.test\\copayparserjsontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361ABD06-CFFA-4F93-9CA4-18831DFF7BD4}|DailyMed.Infratructure.Test\\DailyMed.Infratructure.Test.csproj|solutionrelative:dailymed.infratructure.test\\copayparserjsontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\data\\copayparserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\data\\copayparserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\staticfiles\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\staticfiles\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\models\\icd10code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\models\\icd10code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\models\\program\\copayprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\models\\program\\copayprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\models\\program\\fundingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\models\\program\\fundingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\isearchstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\isearchstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\ipromptstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\ipromptstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\iindicationsparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\iindicationsparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\igenerativeaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\igenerativeaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\ifilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\idrugindicationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\idrugindicationsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\idailymedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\idailymedrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\icopayprogramrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\icopayprogramrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\interfaces\\icopayparserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\interfaces\\icopayparserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\applications\\iloginuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\applications\\iloginuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\applications\\idrugindicationsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\applications\\idrugindicationsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\applications\\idailymedapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\applications\\idailymedapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\applications\\icopayprogramapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\applications\\icopayprogramapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ADA85C-A46A-40F6-B3F1-FD8A139DEFEE}|DailyMed.Application\\DailyMed.Application.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ADA85C-A46A-40F6-B3F1-FD8A139DEFEE}|DailyMed.Application\\DailyMed.Application.csproj|solutionrelative:dailymed.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ADA85C-A46A-40F6-B3F1-FD8A139DEFEE}|DailyMed.Application\\DailyMed.Application.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.application\\services\\loginuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ADA85C-A46A-40F6-B3F1-FD8A139DEFEE}|DailyMed.Application\\DailyMed.Application.csproj|solutionrelative:dailymed.application\\services\\loginuserapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ADA85C-A46A-40F6-B3F1-FD8A139DEFEE}|DailyMed.Application\\DailyMed.Application.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.application\\services\\drugindicationsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ADA85C-A46A-40F6-B3F1-FD8A139DEFEE}|DailyMed.Application\\DailyMed.Application.csproj|solutionrelative:dailymed.application\\services\\drugindicationsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ADA85C-A46A-40F6-B3F1-FD8A139DEFEE}|DailyMed.Application\\DailyMed.Application.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.application\\services\\copayprogramapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65ADA85C-A46A-40F6-B3F1-FD8A139DEFEE}|DailyMed.Application\\DailyMed.Application.csproj|solutionrelative:dailymed.application\\services\\copayprogramapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\data\\copayprogramrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\data\\copayprogramrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.webapi\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|solutionrelative:dailymed.webapi\\controllers\\programscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|solutionrelative:dailymed.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\data\\drugindicationsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\data\\drugindicationsinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\ai\\openaiapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\ai\\openaiapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.webapi\\controllers\\drugindicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|solutionrelative:dailymed.webapi\\controllers\\drugindicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\icd10\\searchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\icd10\\searchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|solutionrelative:dailymed.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\icd10\\searchicd10\\codesearchstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\icd10\\searchicd10\\codesearchstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\fda\\indicationsparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\fda\\indicationsparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.infrastructure\\icd10\\icd10codemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A671E882-8107-4D3F-BDF2-8C05B078B02D}|DailyMed.Infrastructure\\DailyMed.Infrastructure.csproj|solutionrelative:dailymed.infrastructure\\icd10\\icd10codemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.core\\models\\dailymed\\spldailymeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FF803C9-5969-4405-9AA1-6F10960F7A8D}|DailyMed.Core\\DailyMed.Core.csproj|solutionrelative:dailymed.core\\models\\dailymed\\spldailymeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.webapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|solutionrelative:dailymed.webapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|c:\\users\\jfviz\\downloads\\dailymed.dupixentcopaysolution\\dailymed.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BA1E99F-85A6-44CC-8696-33471BDE5AEE}|DailyMed.WebAPI\\DailyMed.WebAPI.csproj|solutionrelative:dailymed.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICD10Searchtest.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infratructure.Test\\ICD10Searchtest.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infratructure.Test\\ICD10Searchtest.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infratructure.Test\\ICD10Searchtest.cs",
+              "RelativeToolTip": "DailyMed.Infratructure.Test\\ICD10Searchtest.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAADgv0QAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:26:01.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:41.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISearchStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\ISearchStrategy.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\ISearchStrategy.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\ISearchStrategy.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\ISearchStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:38.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPromptStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IPromptStrategy.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\IPromptStrategy.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IPromptStrategy.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\IPromptStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:34.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICD10Code.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Models\\ICD10Code.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Models\\ICD10Code.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Models\\ICD10Code.cs",
+              "RelativeToolTip": "DailyMed.Core\\Models\\ICD10Code.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:14:32.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CopayParserJsonTests.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infratructure.Test\\CopayParserJsonTests.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infratructure.Test\\CopayParserJsonTests.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infratructure.Test\\CopayParserJsonTests.cs",
+              "RelativeToolTip": "DailyMed.Infratructure.Test\\CopayParserJsonTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwDIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:40:04.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CopayParserJson.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\Data\\CopayParserJson.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\Data\\CopayParserJson.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\Data\\CopayParserJson.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\Data\\CopayParserJson.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T03:28:54.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyMedRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\Data\\DailyMedRepository.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\Data\\DailyMedRepository.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\Data\\DailyMedRepository.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\Data\\DailyMedRepository.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:13:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CopayProgram.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Models\\Program\\CopayProgram.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Models\\Program\\CopayProgram.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Models\\Program\\CopayProgram.cs",
+              "RelativeToolTip": "DailyMed.Core\\Models\\Program\\CopayProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:46.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FundingData.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Models\\Program\\FundingData.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Models\\Program\\FundingData.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Models\\Program\\FundingData.cs",
+              "RelativeToolTip": "DailyMed.Core\\Models\\Program\\FundingData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:52.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\StaticFiles\\FileReader.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\StaticFiles\\FileReader.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\StaticFiles\\FileReader.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\StaticFiles\\FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:10:58.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IIndicationsParser.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IIndicationsParser.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\IIndicationsParser.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IIndicationsParser.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\IIndicationsParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:30.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenerativeAIService.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IGenerativeAIService.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\IGenerativeAIService.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IGenerativeAIService.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\IGenerativeAIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFileReader.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IFileReader.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\IFileReader.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IFileReader.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\IFileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:14.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDrugIndicationsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IDrugIndicationsRepository.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\IDrugIndicationsRepository.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IDrugIndicationsRepository.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\IDrugIndicationsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:11.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IDailyMedRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IDailyMedRepository.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\IDailyMedRepository.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\IDailyMedRepository.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\IDailyMedRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICopayProgramRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\ICopayProgramRepository.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\ICopayProgramRepository.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\ICopayProgramRepository.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\ICopayProgramRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:09:02.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ILoginUserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Applications\\ILoginUserApplication.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Applications\\ILoginUserApplication.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Applications\\ILoginUserApplication.cs",
+              "RelativeToolTip": "DailyMed.Core\\Applications\\ILoginUserApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:08:58.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDrugIndicationsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Applications\\IDrugIndicationsApplication.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Applications\\IDrugIndicationsApplication.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Applications\\IDrugIndicationsApplication.cs",
+              "RelativeToolTip": "DailyMed.Core\\Applications\\IDrugIndicationsApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:08:57.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IDailyMedApplication.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Applications\\IDailyMedApplication.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Applications\\IDailyMedApplication.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Applications\\IDailyMedApplication.cs",
+              "RelativeToolTip": "DailyMed.Core\\Applications\\IDailyMedApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:08:54.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICopayProgramApplication.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Applications\\ICopayProgramApplication.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Applications\\ICopayProgramApplication.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Applications\\ICopayProgramApplication.cs",
+              "RelativeToolTip": "DailyMed.Core\\Applications\\ICopayProgramApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:08:52.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DrugIndicationsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Application\\Services\\DrugIndicationsApplication.cs",
+              "RelativeDocumentMoniker": "DailyMed.Application\\Services\\DrugIndicationsApplication.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Application\\Services\\DrugIndicationsApplication.cs",
+              "RelativeToolTip": "DailyMed.Application\\Services\\DrugIndicationsApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:08:44.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICopayParserJson.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\ICopayParserJson.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Interfaces\\ICopayParserJson.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Interfaces\\ICopayParserJson.cs",
+              "RelativeToolTip": "DailyMed.Core\\Interfaces\\ICopayParserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:21:42.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CopayProgramRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\Data\\CopayProgramRepository.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\Data\\CopayProgramRepository.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\Data\\CopayProgramRepository.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\Data\\CopayProgramRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:03:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CopayProgramApplication.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Application\\Services\\CopayProgramApplication.cs",
+              "RelativeDocumentMoniker": "DailyMed.Application\\Services\\CopayProgramApplication.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Application\\Services\\CopayProgramApplication.cs",
+              "RelativeToolTip": "DailyMed.Application\\Services\\CopayProgramApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:01:47.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DrugIndicationsController.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Controllers\\DrugIndicationsController.cs",
+              "RelativeDocumentMoniker": "DailyMed.WebAPI\\Controllers\\DrugIndicationsController.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Controllers\\DrugIndicationsController.cs",
+              "RelativeToolTip": "DailyMed.WebAPI\\Controllers\\DrugIndicationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:34:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginUserApplication.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Application\\Services\\LoginUserApplication.cs",
+              "RelativeDocumentMoniker": "DailyMed.Application\\Services\\LoginUserApplication.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Application\\Services\\LoginUserApplication.cs",
+              "RelativeToolTip": "DailyMed.Application\\Services\\LoginUserApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:08:40.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DailyMed.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "DailyMed.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:50:30.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SearchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\ICD10\\SearchRepository.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\ICD10\\SearchRepository.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\ICD10\\SearchRepository.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\ICD10\\SearchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:29:53.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProgramsController.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Controllers\\ProgramsController.cs",
+              "RelativeDocumentMoniker": "DailyMed.WebAPI\\Controllers\\ProgramsController.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Controllers\\ProgramsController.cs",
+              "RelativeToolTip": "DailyMed.WebAPI\\Controllers\\ProgramsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:39:01.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DailyMed.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Program.cs",
+              "RelativeToolTip": "DailyMed.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:14:58.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DrugIndicationsInterface.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\Data\\DrugIndicationsInterface.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\Data\\DrugIndicationsInterface.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\Data\\DrugIndicationsInterface.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\Data\\DrugIndicationsInterface.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:00:55.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DailyMed.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DailyMed.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T06:20:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OpenAIApiService.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\AI\\OpenAIApiService.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\AI\\OpenAIApiService.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\AI\\OpenAIApiService.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\AI\\OpenAIApiService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T03:17:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:54:19.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CodeSearchStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\ICD10\\SearchICD10\\CodeSearchStrategy.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\ICD10\\SearchICD10\\CodeSearchStrategy.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\ICD10\\SearchICD10\\CodeSearchStrategy.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\ICD10\\SearchICD10\\CodeSearchStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:44:50.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IndicationsParser.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\FDA\\IndicationsParser.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\FDA\\IndicationsParser.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\FDA\\IndicationsParser.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\FDA\\IndicationsParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:44:21.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ICD10CodeMap.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\ICD10\\ICD10CodeMap.cs",
+              "RelativeDocumentMoniker": "DailyMed.Infrastructure\\ICD10\\ICD10CodeMap.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Infrastructure\\ICD10\\ICD10CodeMap.cs",
+              "RelativeToolTip": "DailyMed.Infrastructure\\ICD10\\ICD10CodeMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:30:00.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SplDailyMedData.cs",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Models\\DailyMed\\SplDailyMedData.cs",
+              "RelativeDocumentMoniker": "DailyMed.Core\\Models\\DailyMed\\SplDailyMedData.cs",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.Core\\Models\\DailyMed\\SplDailyMedData.cs",
+              "RelativeToolTip": "DailyMed.Core\\Models\\DailyMed\\SplDailyMedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:19:48.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "DailyMed.WebAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\Dockerfile",
+              "RelativeToolTip": "DailyMed.WebAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-29T19:54:12.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "DailyMed.WebAPI\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\jfviz\\Downloads\\DailyMed.DupixentCopaySolution\\DailyMed.WebAPI\\docker-compose.yml",
+              "RelativeToolTip": "DailyMed.WebAPI\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-29T19:55:15.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
