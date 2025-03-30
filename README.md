@@ -125,13 +125,13 @@ Example solution structure:
 
 6. **Run** the Web API:
    ```bash
-   cd DailyMed.API
+   cd DailyMed.WebAPI
    dotnet run
    ```
    or press **F5** in Visual Studio.
 
 7. **Swagger** UI  
-   - Navigate to <http://localhost:7104/swagger> (or whichever port the app logs to).  
+   - Navigate to <http://localhost:5081/swagger> (or whichever port the app logs to).  
    - You can test endpoints there, including passing a **Bearer** token for protected routes.
 
 ---
@@ -277,4 +277,4 @@ This repository also includes a `Dockerfile` (to build the .NET 8 image for the 
    - The `SQL Server` container, if included, typically listens on port 1433.
 
 4. **Access** the API via:
-   - <http://localhost:8080/swagger> 
+   - <http://localhost:8081/swagger> 
