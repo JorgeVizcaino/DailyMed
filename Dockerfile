@@ -14,6 +14,9 @@ COPY ["DailyMed.WebAPI/DailyMed.WebAPI.csproj", "DailyMed.WebAPI/"]
 COPY ["DailyMed.Application/DailyMed.Application.csproj", "DailyMed.Application/"]
 COPY ["DailyMed.Core/DailyMed.Core.csproj", "DailyMed.Core/"]
 COPY ["DailyMed.Infrastructure/DailyMed.Infrastructure.csproj", "DailyMed.Infrastructure/"]
+# Copy the StaticFiles folder into /app/StaticFiles
+COPY ["DailyMed.WebAPI/StaticFiles", "/app/StaticFiles"] 
+
 RUN dotnet restore "./DailyMed.WebAPI/DailyMed.WebAPI.csproj"
 COPY . .
 WORKDIR "/src/DailyMed.WebAPI"

@@ -21,4 +21,10 @@
     <ProjectReference Include="..\DailyMed.Infrastructure\DailyMed.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="StaticFiles\icd10.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
