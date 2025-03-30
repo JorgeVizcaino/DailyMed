@@ -247,3 +247,34 @@ Here is a quick reference of the primary endpoints:
 
 ---
 
+
+## 9. Running with Docker Compose
+
+This repository also includes a `Dockerfile` (to build the .NET 8 image for the API) and a `docker-compose.yml` that orchestrates the containers.
+
+### Prerequisites
+
+- [Docker](https://www.docker.com/) installed on your machine.
+- [Docker Compose](https://docs.docker.com/compose/) (usually bundled with Docker Desktop).
+
+### Steps
+
+1. **Add** your connection strings and OpenAI key in an environment.  
+   
+2. **Build & Run**:
+
+   ```bash
+   docker-compose build
+   docker-compose up
+   ```
+
+   - `docker-compose build` uses your local `Dockerfile` and `docker-compose.yml`.
+   - `docker-compose up` starts the containers.
+
+3. **Confirm** containers are running:
+   - `docker ps` to see the running containers.
+   - The `.NET API` container typically listens on port 80 or 8080 (depending on your Dockerfile).  
+   - The `SQL Server` container, if included, typically listens on port 1433.
+
+4. **Access** the API via:
+   - <http://localhost:8080/swagger> 
